@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small projects to strengthen my skills and gain some experience<br>🌱 I’m currently learning software development on soyHenry Bootcamp and Software engineering<br>⚡ Fun fact: i started learning mechanical engineering and im really close to the end
+🔭 I’m currently working on projects to strengthen my skills and gain some experience<br>🌱 I'm a Full stack developer, with background on Mechanical Engineer and learning Software engineer<br>⚡ Fun fact: i never stop learning
 
 
 ## 🌐 Socials:
