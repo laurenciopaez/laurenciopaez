@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on my first mobile project<br>🌱 I'm a Full stack developer, with background on Mechanical Engineer and learning Software engineer<br>⚡ Fun fact: i never stop learning<br>
+💫 About Me:<br>🔭 I’m currently working on my first mobile project<br>🌱 I'm a Full stack developer, with background on Mechanical Engineer and learning Software engineer<br>⚡ Fun fact: i know pascal because of collegue<br>
 
 
 ## 🌐 Socials:
