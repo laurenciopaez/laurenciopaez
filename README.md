@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on my real project<br>🌱 I'm a Full Stack developer, with background in Mechanical Engineer<br>
+💫 About Me:<br>Mechanical Engineer. Software dev.<br>
 
 
 ## 🌐 Socials:
