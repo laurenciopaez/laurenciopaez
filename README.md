@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Advanced React Native patterns and best practices for large-scale full-stack deployments.**
 
-- 💬 Ask me about **Mechanical Engineering, Python automation, fluid dynamics, or how to swap a turbo on a 2.8 engine.**
+- 💬 Ask me about **Mechanical Engineering, Python automation, fluid dynamics, or how to work on a 2.8 turbo engine.**
 
 - 📫 How to reach me **laurencio314@gmail.com**
 
