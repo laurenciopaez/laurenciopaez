@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laurencio</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 
 - 🔭 I’m currently working on **Devoping Gymtracker, a mobile application for performance tracking, and scaling Numeria, a startup focused on data extraction tools like NumeriaGraph.**
 
